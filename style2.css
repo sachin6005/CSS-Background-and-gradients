@@ -1,5 +1,4 @@
 body{
-    background-image: url(images-1.jpeg);
-    background-repeat: no-repeat;
-    width: 100%;
+    background-image:  url(leone.jpg);
+    background-size: cover;
 }
